@@ -1,5 +1,8 @@
 # my-first-python-project
 **📁 Project Descriptions**
+*📝 Project based on an exercise from Class 11 Computer Science Book by Sumita Arora.
+👨‍🎓 Implemented as part of my learning journey.
+📘 This is for educational and portfolio purposes only.*
 
 **"These are my very first Python programs as I start learning. Each one helps me understand the basics like variables, user input, conditionals, and arithmetic operations. More to come!"**
 
